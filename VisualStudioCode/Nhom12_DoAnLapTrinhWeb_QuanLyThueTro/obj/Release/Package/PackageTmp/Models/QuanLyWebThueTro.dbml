@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DBWebThueTro1" Class="QuanLyWebThueTroDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-9ILOSIP\SQLEXPRESS;Initial Catalog=DBWebThueTro1;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DBWebThueTro1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.AspNetRoles" Member="AspNetRoles">
+    <Type Name="AspNetRole">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(256) NOT NULL" CanBeNull="false" />
+      <Association Name="AspNetRole_AspNetUserRole" Member="AspNetUserRoles" ThisKey="Id" OtherKey="RoleId" Type="AspNetUserRole" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Phong" Member="Phongs">
+    <Type Name="Phong">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TieuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IDLoaiPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DienTichPhong" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="img" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DiaChiTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Phong_PhieuDat" Member="PhieuDats" ThisKey="ID" OtherKey="IDPhong" Type="PhieuDat" />
+      <Association Name="LoaiPhong_Phong" Member="LoaiPhong" ThisKey="IDLoaiPhong" OtherKey="ID" Type="LoaiPhong" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspNetUserClaims" Member="AspNetUserClaims">
+    <Type Name="AspNetUserClaim">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserId" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="ClaimType" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ClaimValue" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="AspNetUser_AspNetUserClaim" Member="AspNetUser" ThisKey="UserId" OtherKey="UserName" Type="AspNetUser" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspNetUserLogins" Member="AspNetUserLogins">
+    <Type Name="AspNetUserLogin">
+      <Column Name="LoginProvider" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ProviderKey" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserId" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="AspNetUser_AspNetUserLogin" Member="AspNetUser" ThisKey="UserId" OtherKey="UserName" Type="AspNetUser" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspNetUserRoles" Member="AspNetUserRoles">
+    <Type Name="AspNetUserRole">
+      <Column Name="UserId" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="RoleId" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Association Name="AspNetRole_AspNetUserRole" Member="AspNetRole" ThisKey="RoleId" OtherKey="Id" Type="AspNetRole" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="AspNetUser_AspNetUserRole" Member="AspNetUser" ThisKey="UserId" OtherKey="UserName" Type="AspNetUser" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspNetUsers" Member="AspNetUsers">
+    <Type Name="AspNetUser">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(256)" CanBeNull="true" />
+      <Column Name="EmailConfirmed" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordHash" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SecurityStamp" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="PhoneNumberConfirmed" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="TwoFactorEnabled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="LockoutEndDateUtc" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LockoutEnabled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AccessFailedCount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="AspNetUser_AspNetUserClaim" Member="AspNetUserClaims" ThisKey="UserName" OtherKey="UserId" Type="AspNetUserClaim" />
+      <Association Name="AspNetUser_AspNetUserLogin" Member="AspNetUserLogins" ThisKey="UserName" OtherKey="UserId" Type="AspNetUserLogin" />
+      <Association Name="AspNetUser_AspNetUserRole" Member="AspNetUserRole" ThisKey="UserName" OtherKey="UserId" Type="AspNetUserRole" Cardinality="One" />
+      <Association Name="AspNetUser_PhieuDat" Member="PhieuDats" ThisKey="UserName" OtherKey="IDUser" Type="PhieuDat" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LoaiPhong" Member="LoaiPhongs">
+    <Type Name="LoaiPhong">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenLoaiPhong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="LoaiPhong_Phong" Member="Phongs" ThisKey="ID" OtherKey="IDLoaiPhong" Type="Phong" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PhieuDat" Member="PhieuDats">
+    <Type Name="PhieuDat">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDPhong" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDUser" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="Datetime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TienCoc" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="AspNetUser_PhieuDat" Member="AspNetUser" ThisKey="IDUser" OtherKey="UserName" Type="AspNetUser" IsForeignKey="true" />
+      <Association Name="Phong_PhieuDat" Member="Phong" ThisKey="IDPhong" OtherKey="ID" Type="Phong" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.P_BaiDang" Method="P_BaiDang">
+    <ElementType Name="P_BaiDangResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TieuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IDLoaiPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DienTichPhong" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="img" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DiaChiTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.P_SummaryInfo" Method="P_SummaryInfo">
+    <ElementType Name="P_SummaryInfoResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDUser" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="IDPhong" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Datetime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TieuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IDLoaiPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DienTichPhong" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DiaChiTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.P_Order" Method="P_Order">
+    <ElementType Name="P_OrderResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDUser" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="IDPhong" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Datetime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="TieuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IDLoaiPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DienTichPhong" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DiaChiTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.P_OrderInfo" Method="P_OrderInfo">
+    <Parameter Name="ten" Type="System.String" DbType="NVarChar(100)" />
+    <ElementType Name="P_OrderInfoResult">
+      <Column Name="TieuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IDLoaiPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DienTichPhong" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DiaChiTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.P_Phong" Method="P_Phong">
+    <ElementType Name="P_PhongResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TieuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IDLoaiPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DienTichPhong" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="img" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DiaChiTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.P_Search" Method="P_Search">
+    <Parameter Name="Address" Parameter="address" Type="System.String" DbType="NVarChar(MAX)" />
+    <ElementType Name="P_SearchResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TieuDe" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IDLoaiPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DienTichPhong" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SDT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="img" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="DiaChiTro" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.P_Summary" Method="P_Summary">
+    <Parameter Name="date1" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="date2" Type="System.String" DbType="VarChar(100)" />
+    <ElementType Name="P_SummaryResult">
+      <Column Name="SOLUONGGD" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SOLUONGPHONG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TONGTIEN" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SOLUONGKHACH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.P_Trang" Method="P_Trang">
+    <Parameter Name="num" Type="System.Int32" DbType="Int" />
+    <Parameter Name="loai" Type="System.Int32" DbType="Int" />
+  </Function>
+</Database>

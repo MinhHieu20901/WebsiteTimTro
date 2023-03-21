@@ -1,0 +1,39 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.qtht {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+    font-size: 200%;
+    
+    font-family: 'Poppins', sans-serif;
+}
+.dl-horizontal {
+    max-width: 400px;
+    background: #fff;
+    box-shadow: 0px 25px 30px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    
+}
+    .dl-horizontal dd a {
+        text-decoration: none;
+        color: ghostwhite;
+        background-color: #259e35;
+        border-radius: 5px;
+        font: 22px;
+        padding:0 8px;
+    }
+
+dt {
+    font-size: 80%;
+    color: #259e35;
+
+}
+h4 {
+    color: #259e35;
+}

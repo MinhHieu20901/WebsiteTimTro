@@ -1,0 +1,55 @@
+﻿* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    height: 100%;
+    color: #259e35;
+    background: #f2f2f2;
+    font-family: 'Poppins', sans-serif;
+}
+.dangnhap {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+    font: 50%;
+    color: #259e35;
+}
+a {
+    background-color: #259e35;
+    color: ghostwhite;
+    font-size: 90%;
+    border-radius: 5px;
+    padding: 0 8px;
+}
+input.btn.btn-default {
+    background-color: #259e35;
+    color: ghostwhite;
+    font-size: 120%;
+    border-radius: 5px;
+}
+input#RememberMe {
+    margin-top: 10px;
+}
+h2 {
+    font-size: 180%;
+}
+label.col-md-2.control-label {
+    font-size: 150%;
+}
+input#Email {
+    font-size: 130%;
+    border-radius: 10px;
+}
+
+input#Password {
+    font-size: 130%;
+    border-radius: 10px;
+}
+p {
+    align-items: center;
+    font-size: 110%;
+    margin-top: 55px;
+}

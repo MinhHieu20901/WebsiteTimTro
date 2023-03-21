@@ -1,0 +1,23 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.qltk {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+    color: #259e35;
+    font-size: 150%;
+}
+button {
+    font-size: 100%;
+    border-radius: 5px;
+}
+    button a {
+        background-color: #259e35;
+        color: white;
+        text-decoration: none;
+    }

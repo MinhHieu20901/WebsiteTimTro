@@ -1,0 +1,47 @@
+﻿@model Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+    Layout = null;
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutForAdmin.cshtml";
+    <link href="~/Content/img/QuanTriHeThong.css" rel="stylesheet" />
+
+}
+
+@*<h2>@ViewBag.Title.</h2>*@
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div class="qtht">
+    <h4>QUẢN TRỊ HỆ THỐNG</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Cài đặt lại mật khẩu của website
+        </dt>
+        <dd>
+         
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Đổi mật khẩu", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Tạo mật khẩu", "SetPassword")
+            }
+            
+        </dd>
+        <dt>
+            Cài đặt lại quyền quản lý
+        </dt>
+        <dd>
+            @Html.ActionLink("Quản lý Quyền", "ManageAccount", "Account")
+        </dd>
+        <dt>
+            Cài đặt lại phòng
+        </dt>
+        <dd>
+            @Html.ActionLink("Quản lý Phòng", "IndexLoaiPhong", "Manage")
+        </dd>
+
+
+    </dl>
+</div>

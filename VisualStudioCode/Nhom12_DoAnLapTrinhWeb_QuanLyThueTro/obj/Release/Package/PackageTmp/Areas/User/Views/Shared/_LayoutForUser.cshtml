@@ -1,0 +1,155 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="~/Content/img/StyleSheet1.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header>
+        <div id="menu_icon">
+            <div id="ul_from">
+                <ul>
+                   @Html.Partial("_PartialLogin")
+                </ul>
+            </div>
+        </div>
+        <div id="menu_top">
+            <ul>
+                <li>
+
+                </li>
+                <li>
+
+                </li>
+                <li>
+                    @Html.ActionLink("Trang Chủ", "Index", "Home", "User", "Areas")
+                </li>
+                <li>
+
+                </li>
+                <li>
+
+                </li>
+                <li>
+                    @Html.ActionLink("Thuê Trọ", "Index1", "Home", "User", "Areas")
+                    <ul class="sub_menu">
+                    </ul>
+                </li>
+                <li>
+
+                </li>
+                <li>
+
+                </li>
+                <li>
+                    @Html.ActionLink("Thuê Văn Phòng", "Index2", "Home", "User", "Areas")
+                    <ul class="sub_menu">
+                    </ul>
+                </li>
+                <li>
+
+                </li>
+                <li>
+
+                </li>
+                <li>
+                    @Html.ActionLink("Tìm Người Ở Ghép", "Index3", "Home", "User", "Areas")
+                    <ul class="sub_menu">
+                    </ul>
+                </li>
+                <li>
+                    @using (Html.BeginForm("IndexSearch", "Home", FormMethod.Get))
+                    {
+                        <input type="text" name="Search" placeholder="Nhập địa chỉ muốn tìm kiếm">
+                        <input class="input1" type="submit" value="TÌM KIẾM">
+                    }
+                </li>
+            </ul>
+           
+
+        </div>
+        <div id="banner">
+            @*<img src="~/Content/img/DNHH.jpg" alt="">*@
+        </div>
+    </header>
+@*    @RenderBody()*@
+<content class="body-content">
+    <main1>
+        <div id="content-left">
+            @RenderBody()
+        </div>
+        <aside>
+            <div class="menu_right">
+                <h3>  Xem Theo Giá</h3>
+                <ul>
+                    <li> <a>@Html.ActionLink("Tất Cả", "Index", "Home", "User", "Areas")</a></li>
+                    <li> <a>@Html.ActionLink("Dưới 1 triệu", "IndexGiaDuoi1trieu", "Home", "User", "Areas")</a></li>
+                    <li> <a>@Html.ActionLink("Từ 1-2 triệu ", "IndexGiaTu1Den2Tr", "Home", "User", "Areas")</a></li>
+                    <li> <a>@Html.ActionLink("Từ 2-4 triệu", "IndexGiaTu2Den4Tr", "Home", "User", "Areas")</a></li>
+                    <li> <a>@Html.ActionLink("Trên 5 triệu", "IndexGiaTren5tr", "Home", "User", "Areas")</a></li>
+                </ul>
+            </div>
+        </aside>
+    </main1>
+</content>
+   
+
+    <div class="footer">
+
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>THUÊ PHÒNG TRỌ</h4>
+                    <ul>
+                        <li><a href="#">Nhanh chóng Và Hiệu quả</a></li>
+                        <li><a href="#">Chất lượng và Minh bạch</a></li>
+                        <li><a href="#">Hotline: 0344362989</a></li>
+                        <li><a href="#">Email: TroChungMinh@gmail.com</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>THÔNG TIN</h4>
+                    <ul>
+                        <li><a href="#">Giời Thiệu</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Chính Sách Bảo Mật</a></li>
+                        <li><a href="#">Quy Định Sử Dụng</a></li>
+                        <li><a href="#">Quy Chế Hoạt Động</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>THÀNH VIÊN SÁNG LẬP</h4>
+                    <ul>
+                        <li><a href="#">Võ Văn Dương-1911065753</a></li>
+                        <li><a href="#">Lý Minh Hiếu-1911061206</a></li>
+                        <li><a href="#">Phan Nguyễn Duy Nhân-1911062510</a></li>
+                        <li><a href="#">Dương Văn Hiệp- 1911062166</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>LIÊN HỆ VỐI CHÚNG TÔI</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cpr_ds">
+            <p>
+                -----------------------------------------------------------------------------------------------------------------------------------------------
+            </p>
+            <p>
+                Copyright © 2022 - 2022 TroChungMinh.somee.com. Ghi rõ nguồn "TroChungMinh.somee.com" khi phát hành lại thông tin từ website này.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿@import url('mageACC.css');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.mega {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+}
+h4 {
+    color: #259e35;
+    font-size: 100%;
+}
+body {
+    height: 100%;
+    color: #259e35;
+    background: #f2f2f2;
+    font-size: 50%;
+    font-family: 'Poppins', sans-serif;
+}
+.form-horizontal {
+    font-size: 200%;
+}
+input#Email {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 90%;
+}
+input#Password {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 90%;
+}
+input#RoleId {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 90%;
+}
+input.btn.btn-default {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #259e35;
+    color: ghostwhite;
+    font-size: 90%;
+    border-radius: 5px;
+}
+a {
+    text-decoration: none;
+    color: ghostwhite;
+    background-color: #259e35;
+    padding: 0 8px;
+    font-size: 180%;
+    border-radius: 5px;
+}

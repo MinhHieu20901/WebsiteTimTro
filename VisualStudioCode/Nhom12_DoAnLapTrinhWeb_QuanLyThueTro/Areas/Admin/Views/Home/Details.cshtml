@@ -1,0 +1,27 @@
+﻿@model Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.Phong
+
+@{
+    Layout = null;
+    
+}
+<link href="~/Content/img/Details.css" rel="stylesheet" />
+<div class="detail">
+    <hr />
+    <div class="Content_Detaisl">
+        <ul>
+            <li><img src="~/Content/img/@Url.Content(Model.img)" /></li>
+            <li><h3> @Html.DisplayFor(model => model.TieuDe)</h3></li>
+            <li>Diện Tích: @Html.DisplayFor(model => model.DienTichPhong)</li>
+            <li>Giá: @Html.DisplayFor(model => model.DonGia)/Tháng</li>
+            <li>Địa Chỉ: @Html.DisplayFor(model => model.DiaChiTro)</li>
+            <li>Mô Tả: @Html.DisplayFor(model => model.MoTa)</li>
+            <li>Chủ Trọ: @Html.DisplayFor(model => model.TenChuTro)</li>
+            <li>Liên Hệ: @Html.DisplayFor(model => model.SDT)</li>
+        </ul>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+        @Html.ActionLink("Quay lại", "Index")
+    </p>
+</div>
+

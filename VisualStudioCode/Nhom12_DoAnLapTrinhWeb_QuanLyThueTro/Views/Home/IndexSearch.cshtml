@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.P_SearchResult>
+@{
+    ViewBag.Title = "TÌM KIẾM PHÒNG";
+    Layout = "~/Views/Shared/_LayoutPageForUser.cshtml";
+}
+
+<div class="content-trangchu">
+    <div class="baiviet">
+        @foreach (var item in Model)
+        {
+            <ul class="ul_Content_Index">
+                <li>
+                    <img src="~/Content/img/@item.img" />
+                    <h2>@Html.DisplayFor(modelItem => item.TieuDe)</h2>
+                    <p>@Html.DisplayFor(modelItem => item.DienTichPhong) @Html.DisplayFor(modelItem => item.DonGia)</p>
+                    <p>@Html.DisplayFor(modelItem => item.DiaChiTro)</p>
+                    <p class="p_index">@Html.DisplayFor(modelItem => item.MoTa)</p>
+                    <p>@Html.ActionLink("Xem Chi Tiết", "Details", new { id = item.ID })</p>
+                </li>
+            </ul>
+        }
+
+    </div>
+
+</div>
+

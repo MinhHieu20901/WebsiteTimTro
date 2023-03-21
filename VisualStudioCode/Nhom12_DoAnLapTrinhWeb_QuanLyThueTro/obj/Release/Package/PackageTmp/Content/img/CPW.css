@@ -1,0 +1,84 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+    color: #259e35;
+    font-size: 180%;
+}
+
+.changpw {
+    height: 100%;
+    color: #259e35;
+    background: #f2f2f2;
+    font-size: 250%;
+    font-family: 'Poppins', sans-serif;
+}
+
+    .changpw a {
+        text-decoration: none;
+        color: ghostwhite;
+        background-color: #259e35;
+        border-radius: 5px;
+        font: 22px;
+        padding: 0 8px;
+        font-size: 90%;
+    }
+
+    .changpw form-group dm {
+        text-decoration: none;
+        color: ghostwhite;
+        background-color: #259e35;
+        border-radius: 5px;
+        font: 22px;
+        padding: 8 8px;
+    }
+
+input.btn.btn-default {
+    background-color: #259e35;
+    color: ghostwhite;
+    border-radius: 5px;
+    font-size: 100%;
+    margin-top: 10px;
+}
+
+.input-validation-error {
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    font-size: 90%;
+}
+
+input#ConfirmPassword {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 90%;
+}
+
+input#NewPassword {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 90%;
+}
+
+input#OldPassword {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 90%;
+}
+
+.changpw form-group a {
+    color: ghostwhite;
+}
+.cbp {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+}
+label.col-md-2.control-label {
+    color: #259e35;
+    font-size: 130%;
+}

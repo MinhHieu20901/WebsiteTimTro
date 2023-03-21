@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.P_SummaryResult>
+
+@{
+    ViewBag.Title = "IndexSummary";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutForAdmin.cshtml";
+}
+
+<h2>Summary</h2>
+<form>
+    <p>
+        Từ ngày:<input type="text" name="t1" />
+        Đến ngày:<input type="text" name="t2" />
+        <input type="submit" value="THỐNG KÊ"/>
+    </p>
+</form>
+<div class="io">
+    <table border="1" class="tabble">
+        <tr>
+            <th>Số lượng giao dịch</th>
+            <th>Số lượng phòng</th>
+            <th>Số lượng tiền giao dịch</th>
+            <th>Số lượng khách</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SOLUONGGD)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SOLUONGPHONG)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TONGTIEN)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SOLUONGKHACH)
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+    @using (Html.BeginForm("IndexSummaryInfo", "Home"))
+    {
+        <input type="submit" value=" CHI TIẾT ">
+    }

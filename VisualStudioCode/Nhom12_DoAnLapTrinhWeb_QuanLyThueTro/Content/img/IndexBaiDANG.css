@@ -1,0 +1,29 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    color: #259e35;
+}
+
+.ibd {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+    font-size: 180%;
+    font-family: 'Poppins', sans-serif;
+}
+
+    .ibd table tr th {
+        text-decoration: none;
+        color: ghostwhite;
+        background-color: #259e35;
+        border-radius: 5px;
+        font: 22px;
+        padding: 0 8px;
+    }
+

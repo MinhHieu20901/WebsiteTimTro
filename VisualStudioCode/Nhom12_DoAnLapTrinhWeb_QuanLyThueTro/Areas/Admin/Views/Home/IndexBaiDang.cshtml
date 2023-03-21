@@ -1,0 +1,121 @@
+﻿@model IEnumerable<Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.P_BaiDangResult>
+<link href="~/Content/img/IndexBaiDANG.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "IndexBaiDang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutForAdmin.cshtml";
+}
+
+<h2>Các Bài Đăng</h2>
+<div class="ibd">
+    <table border="1" class="tabble">
+    <tr>
+        <th>
+            Tiêu đề
+        </th>
+        <th>
+            ID loại phòng
+        </th>
+        <th>
+            Tình trạng
+        </th>
+        <th>
+            Tên chủ trọ
+        </th>
+        <th>
+            Diện tích phòng
+        </th>
+        <th>
+            Giá
+        </th>
+        <th>
+            Số điện thoại
+        </th>
+        <th>
+            Mô tả
+        </th>
+        <th>
+            Ảnh
+        </th>
+        <th>
+            Địa chỉ trọ
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TieuDe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDLoaiPhong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TinhTrang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenChuTro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienTichPhong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                <img src="~/Content/img/@item.img" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChiTro)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+</div>
+
+@*<tr>
+    <th>
+        @Html.DisplayNameFor(model => model.TieuDe)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.IDLoaiPhong)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.TinhTrang)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.TenChuTro)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.DienTichPhong)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.DonGia)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.SDT)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.MoTa)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.img)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.DiaChiTro)
+    </th>
+    <th></th>
+</tr>*@

@@ -1,0 +1,560 @@
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll.config
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe.config
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.rsp
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe.config
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.rsp
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.AppContext.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Console.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Http.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.ValueTuple.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe.config
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.rsp
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Owin.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\WebGrease.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.pdb
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.AssemblyReference.cache
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CoreCompileInputs.cache
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CopyComplete
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Downloads\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll.config
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe.config
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.rsp
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe.config
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.rsp
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.AppContext.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Console.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Http.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.ValueTuple.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe.config
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.rsp
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Owin.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\WebGrease.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.pdb
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.AssemblyReference.cache
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CoreCompileInputs.cache
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CopyComplete
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\Web_V4.0\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll.config
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe.config
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.rsp
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe.config
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.rsp
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.AppContext.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Console.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Http.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.ValueTuple.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe.config
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.rsp
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Owin.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\WebGrease.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.pdb
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.AssemblyReference.cache
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CoreCompileInputs.cache
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CopyComplete
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll.config
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe.config
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.rsp
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe.config
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.rsp
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.AppContext.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Console.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Http.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.ValueTuple.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe.config
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.rsp
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Owin.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\WebGrease.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.pdb
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.AssemblyReference.cache
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CoreCompileInputs.cache
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CopyComplete
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\FULL-HD ( Final )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll.config
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.exe.config
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csc.rsp
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.exe.config
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\csi.rsp
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.AppContext.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Console.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Http.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.ValueTuple.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.exe.config
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\vbc.rsp
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Owin.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\WebGrease.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\PagedList.Mvc.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Helpers.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Mvc.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Optimization.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.Razor.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\System.Web.WebPages.Razor.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Newtonsoft.Json.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Antlr3.Runtime.pdb
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\EntityFramework.SqlServer.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.AssemblyReference.cache
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CoreCompileInputs.cache
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.csproj.CopyComplete
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.dll
+C:\Users\ES\Desktop\FULL-HD ( THE END )\VisualStudioCode\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro\obj\Release\Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.pdb

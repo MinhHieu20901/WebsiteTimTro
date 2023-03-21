@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.P_PhongResult>
+
+@{
+    Layout = null;
+}
+<link href="~/Content/img/THANHTOAN.css" rel="stylesheet" />
+<div class="thanhtoan">
+    @using (Html.BeginForm())
+    {
+    <div class="trai">
+        <p>
+            @*@{Response.Write(Request["idphong"]);}*@
+            @{
+                int id = int.Parse(Request.QueryString["id"]);
+                string tieude = Request.QueryString["tieude"];
+                double gia = double.Parse(Request.QueryString["gia"]);
+                string dientich = (Request.QueryString["dientich"]);
+                int sdt = int.Parse(Request.QueryString["sdt"]);
+                string diachi = (Request.QueryString["diachi"]);
+                string chutro = (Request.QueryString["chutro"]);
+            }
+        </p>
+        <div>
+            <label for="@id">Phòng đã chọn:</label><br />
+            <input type="text" id="id" name="id" value="@id" readonly />
+        </div>
+        <div>
+            <label for="@tieude">Tiêu đề:</label><br />
+            <input type="text" id="tieude" name="tieude" value="@tieude" readonly />
+        </div>
+        <div>
+            <label for="@dientich">Diện tích:</label><br />
+            <input type="text" id="dientich" name="dientich" value="@dientich" readonly />
+        </div>
+        <div>
+            <label for="@chutro">Tên chủ trọ:</label><br />
+            <input type="text" id="chutro" name="chutro" value="@chutro" readonly />
+        </div>
+        <div>
+            <label for="@sdt">Số điện thoại:</label><br />
+            <input type="text" id="sdt" name="sdt" value="@sdt" readonly />
+        </div>
+        <div>
+            <label for="@gia">Giá:</label><br />
+            <input type="text" id="gia" name="gia" value="@gia" readonly />
+        </div>
+        <div>
+            <label for="@diachi">Địa chỉ:</label><br />
+            <input type="text" id="diachi" name="diachi" value="@diachi" readonly />
+        </div>
+
+    </div>
+      
+    <div class="cover">
+        <p>
+            Thanh toán qua QR 
+        </p>
+        <img src="~/Content/img/qrr.jpg" />
+        <div>
+            <input type="submit" value="THANH TOÁN" />
+        </div>
+    </div>
+
+
+    }
+</div>
+
+
+

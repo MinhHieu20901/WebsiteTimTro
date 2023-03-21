@@ -1,0 +1,31 @@
+﻿@model Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+    Layout = null;
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutForAdmin.cshtml";
+}
+
+@*<h2>@ViewBag.Title.</h2>*@
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>QUẢN TRỊ HỆ THỐNG</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Mật khẩu:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Thay đổi mật khẩu", "ChangePassword")
+            }
+            ]
+        </dd>
+        <dt>Phòng đã cho thuê:</dt>
+        <dd>
+            [
+                @Html.ActionLink("Thông tin chi tiết", "IndexOrderInfo", "Home")
+            ]
+        </dd>
+    </dl>
+</div>

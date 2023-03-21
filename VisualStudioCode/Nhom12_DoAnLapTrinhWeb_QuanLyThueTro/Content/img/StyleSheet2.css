@@ -1,0 +1,49 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+    font: 50%;
+    color: #259e35;
+}
+.cdl_1{ 
+    max-width: 400px;
+    background: #fff;
+    box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+    border-radius:5px;
+}
+.backto button {
+    text-decoration: none;
+}
+
+label.control-label.col-md-2 {
+    font-size: 140%;
+}
+input[type="file"] {
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+input.btn.btn-default {
+    margin-top: 10px;
+    background-color: #259e35;
+    color: white;
+    border-radius: 5px;
+    font-size: 130%;
+    margin-bottom: 10px;
+}
+a {
+    text-decoration: none;
+    background-color: #259e35;
+    color: white;
+    font-size: 140%;
+    border-radius: 5px;
+}
+img {
+    width: 100%;
+}

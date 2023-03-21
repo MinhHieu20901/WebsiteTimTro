@@ -1,0 +1,32 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+h2 {
+    color: #259e35;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.io {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background: #f2f2f2;
+    font-size: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+    .io table tr th {
+        text-decoration: none;
+        color: ghostwhite;
+        background-color: #259e35;
+        border-radius: 5px;
+       
+        padding: 0 8px;
+    }
+

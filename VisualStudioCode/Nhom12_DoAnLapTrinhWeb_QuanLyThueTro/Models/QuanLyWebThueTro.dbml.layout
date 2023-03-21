@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 13.875" name="QuanLyWebThueTro">
+  <DataContextMoniker Name="/QuanLyWebThueTroDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b6c822ee-369d-4658-8649-e5aa4874c4d4" absoluteBounds="0.75, 1.625, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/AspNetRole" />
+      <nestedChildShapes>
+        <elementListCompartment Id="44f33ea3-fa8c-4a85-8bdf-08611cabe414" absoluteBounds="0.765, 2.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="62df7262-8aac-4d32-ac7c-974192112ebb" absoluteBounds="3.75, 10.75, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/Phong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f9e1c833-990f-4cb9-89d0-03d7145474bd" absoluteBounds="3.765, 11.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f643e4d-61b8-48b2-b71d-e67fd57aa8ea" absoluteBounds="3.5, 7.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/AspNetUserClaim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8348a59b-cbb9-4296-b6ef-b4249f10ac37" absoluteBounds="3.515, 7.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d7156bb8-4445-4e91-8db3-3eeb24882986" absoluteBounds="3.5, 5.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/AspNetUserLogin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="39675487-bd7d-4071-9d98-4c871a031870" absoluteBounds="3.515, 5.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1a9a1340-9f52-493b-8148-2516976de1b9" absoluteBounds="3.5, 2.625, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/AspNetUserRole" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df01f353-9c5b-4988-825f-c96556dece74" absoluteBounds="3.515, 3.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="de53ff1c-2ac5-44db-9cec-ba35657114e5" absoluteBounds="0.75, 3.625, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/AspNetUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="972dfba5-d64f-4163-8d45-2eab62475e09" absoluteBounds="0.765, 4.085, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f67f1cdf-8f31-4724-8016-cc0eaa5f375a" absoluteBounds="1, 11.625, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/LoaiPhong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5d480415-6bc7-4b90-a99e-f29027d80734" absoluteBounds="1.0150000000000001, 12.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 2.81899251302083); (1.75 : 3.22199625651042); (3.5 : 3.22199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyWebThueTroDataContext/AspNetRole/AspNetRole_AspNetUserRole" />
+      <nodes>
+        <classShapeMoniker Id="b6c822ee-369d-4658-8649-e5aa4874c4d4" />
+        <classShapeMoniker Id="1a9a1340-9f52-493b-8148-2516976de1b9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 6.7420068359375); (1.75 : 8.28929768880208); (2.19791916666667 : 8.28929768880208 : JumpStart); (2.36458583333333 : 8.28929768880208 : JumpEnd); (3.5 : 8.28929768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyWebThueTroDataContext/AspNetUser/AspNetUser_AspNetUserClaim" />
+      <nodes>
+        <classShapeMoniker Id="de53ff1c-2ac5-44db-9cec-ba35657114e5" />
+        <classShapeMoniker Id="3f643e4d-61b8-48b2-b71d-e67fd57aa8ea" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.94314697265625); (3.5 : 5.94314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyWebThueTroDataContext/AspNetUser/AspNetUser_AspNetUserLogin" />
+      <nodes>
+        <classShapeMoniker Id="de53ff1c-2ac5-44db-9cec-ba35657114e5" />
+        <classShapeMoniker Id="d7156bb8-4445-4e91-8db3-3eeb24882986" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.625); (3.125 : 3.25); (3.125 : 4.19399251302083); (3.5 : 3.81899251302083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyWebThueTroDataContext/AspNetUser/AspNetUser_AspNetUserRole" />
+      <nodes>
+        <classShapeMoniker Id="de53ff1c-2ac5-44db-9cec-ba35657114e5" />
+        <classShapeMoniker Id="1a9a1340-9f52-493b-8148-2516976de1b9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 12.2219962565104); (3.75 : 12.2219962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyWebThueTroDataContext/LoaiPhong/LoaiPhong_Phong" />
+      <nodes>
+        <classShapeMoniker Id="f67f1cdf-8f31-4724-8016-cc0eaa5f375a" />
+        <classShapeMoniker Id="62df7262-8aac-4d32-ac7c-974192112ebb" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="4063f476-4e31-4093-9b07-6c3e67d4aa27" absoluteBounds="6, 9.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/QuanLyWebThueTroDataContext/PhieuDat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2ac8065b-e5f5-4934-a5ec-303ed209de94" absoluteBounds="6.015, 9.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.2812525 : 6.7420068359375); (2.2812525 : 9.96875); (6 : 9.96875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyWebThueTroDataContext/AspNetUser/AspNetUser_PhieuDat" />
+      <nodes>
+        <classShapeMoniker Id="de53ff1c-2ac5-44db-9cec-ba35657114e5" />
+        <classShapeMoniker Id="4063f476-4e31-4093-9b07-6c3e67d4aa27" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 10.75); (4.75 : 10.3906265); (6 : 10.3906265)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/QuanLyWebThueTroDataContext/Phong/Phong_PhieuDat" />
+      <nodes>
+        <classShapeMoniker Id="62df7262-8aac-4d32-ac7c-974192112ebb" />
+        <classShapeMoniker Id="4063f476-4e31-4093-9b07-6c3e67d4aa27" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

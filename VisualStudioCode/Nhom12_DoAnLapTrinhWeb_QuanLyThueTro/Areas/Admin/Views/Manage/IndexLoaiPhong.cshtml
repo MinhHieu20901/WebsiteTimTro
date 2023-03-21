@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Nhom12_DoAnLapTrinhWeb_QuanLyThueTro.Models.LoaiPhong>
+
+@{
+    Layout = null;
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutForAdmin.cshtml";
+}
+<link href="~/Content/img/indexLoaiPhong.css" rel="stylesheet" />
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>IndexLoaiPhong</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Thêm Loại Phòng", "CreateLoaiPhong")
+    </p>
+    <table border="1" class="tabble">
+        @foreach (var item in Model)
+        {
+            <dt>ID:@Html.DisplayFor(modelItem => item.ID)</dt>
+
+            <dd>[@Html.DisplayFor(modelItem => item.TenLoaiPhong)] | @Html.ActionLink("Edit", "EditLoaiPhong", new { id = item.ID }) | @Html.ActionLink("Delete", "DeleteLoaiPhong", new { id = item.ID }) </dd>
+        }
+        <br />
+        @Html.ActionLink("Quay Lại", "Index", "Manage")
+
+
+    </table>
+</body>
+</html>
